@@ -1,0 +1,9 @@
+user 1 
+username : Sitohari;
+password : 1234;
+gander : male;
+
+user 2
+username : alex;
+password : 1234;
+gander : male;
