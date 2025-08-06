@@ -1,9 +1,0 @@
-user 1
-username : sitohari
-gander : male
-age: 19
-
-user 2
-username : alex
-gander : male
-age : 20
